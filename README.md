@@ -1,5 +1,7 @@
 # desktop-java-simple
 
+#console-java-simple
+
 # Developer Workspace
 
 [![Contribute](http://beta.codenvy.com/factory/resources/codenvy-contribute.svg)](http://beta.codenvy.com/f?id=omriatu352kkthua)
